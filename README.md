@@ -64,4 +64,6 @@ console.log(x);
 |x21|x22|
 
 ### check box
+
 - [ ] check1
+- [x] checked
